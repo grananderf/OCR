@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini OCR Cleaner COPY \"",
+  "description": "A robust tool to clean OCR-scanned text using Gemini, fixing hyphens, line breaks, and formatting issues.",
+  "requestFramePermissions": []
+}
